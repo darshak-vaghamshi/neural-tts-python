@@ -1,0 +1,6 @@
+fastapi==0.110.0
+uvicorn==0.25.0
+edge-tts==6.1.9
+pydub==0.25.1
+langdetect==1.0.9
+nltk==3.8.1
